@@ -4,5 +4,5 @@ notes and exercises done when following the book
 comments can be viewed right at the corresponding web-page via this hypothes.is group : <https://hypothes.is/groups/J3wW1RPg/vimscript>
 
 
-[The Book](https://learnvimscriptthehardway.stevelosh.com/)
-[Bookmark]()
+- [The Book](https://learnvimscriptthehardway.stevelosh.com/)  
+- [Bookmark]()
