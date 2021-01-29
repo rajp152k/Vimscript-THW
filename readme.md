@@ -5,4 +5,4 @@ comments can be viewed right at the corresponding web-page via this hypothes.is 
 
 
 - [The Book](https://learnvimscriptthehardway.stevelosh.com/)  
-- [Bookmark]()
+- [Bookmark](https://learnvimscriptthehardway.stevelosh.com/chapters/02.html)
