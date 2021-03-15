@@ -6,6 +6,10 @@
 
 ---
 
+### Tue Feb  9 16:02:24 IST 2021
+
+ - shifted all ab's to iab's
+
 ### Sat Jan 30 16:21:54 IST 2021
 
  - segmented vimrc into folds and pruned off some unnecessary plugins
